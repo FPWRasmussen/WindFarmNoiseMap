@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+elevation
+rasterio
+pyproj
+cartopy
+spyder
